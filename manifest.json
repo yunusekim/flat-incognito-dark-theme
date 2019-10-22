@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Incognito Dark Theme",
-	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
+	"name": "Flat Incognito Dark Theme",
+	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome. @yekim",
 
 	"version": "5.1.0",
 
@@ -12,13 +12,13 @@
 
 	"theme": {
 		"images": {
-			"theme_toolbar": "images/material_refresh_grey.png",
-			"theme_ntp_background": "images/material_refresh_grey.png"
+			"theme_toolbar": "images/flat_refresh_grey.png",
+			"theme_ntp_background": "images/flat_refresh_grey.png"
 		},
 		"colors": {
 			"frame": [32, 33, 36],
 			"frame_inactive": [60, 64, 67],
-			"frame_incognito": [32, 33, 36],
+			"frame_incognito": [39, 35, 53],
 			"frame_incognito_inactive": [60, 64, 67],
 			"toolbar": [50, 54, 57],
 			"tab_text": [241, 243, 244],
