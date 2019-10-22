@@ -1,4 +1,4 @@
-# Material Incognito Dark Theme
+# Flat Incognito Dark Theme
 
 Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme. 
 
